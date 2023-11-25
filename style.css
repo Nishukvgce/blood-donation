@@ -1,0 +1,23 @@
+
+
+*{
+  box-sizing: border-box;
+  
+}
+form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 90px 90px;
+  text-align: center;
+  background-color: rgb(212, 209, 209);
+}
+body{
+  background-color:aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: auto;
+}
